@@ -1,0 +1,2 @@
+# bbn
+Bug Bounty Notes
