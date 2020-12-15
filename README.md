@@ -1,2 +1,2 @@
 # bbn
-Bug Bounty Notes
+My Bug Bounty Notes
