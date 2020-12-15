@@ -1,0 +1,2 @@
+# Find if domains listed in subdomains.txt are behind WAF
+for domain in $(cat subdomains.txt);do wafw00f $domain -o waf_detection/$domain.w00f.json; done
